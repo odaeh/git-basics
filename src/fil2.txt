@@ -2,5 +2,9 @@ og dette er
 en helt
 annen fil med litt 
 annet innhold
+<<<<<<< HEAD
 
 HEI
+=======
+og en endring
+>>>>>>> 43891b3... En endring
