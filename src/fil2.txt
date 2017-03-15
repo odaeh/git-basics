@@ -2,3 +2,5 @@ og dette er
 en
 annen fil med litt 
 annet innhold
+
+HEI
